@@ -12,3 +12,5 @@ more sophisticated yet practical approach, offering improved precision and effic
 in reservoir modeling. By adopting this methodology, we hope to contribute to a more
 accessible and effective means of understanding and managing reservoir dynamics for
 engineers making timely decisions.
+
+Amin Sheikhoushaghi, 7th Feb,2024
